@@ -3,8 +3,8 @@
     "id": 145,
     "name": "Tangadan Falls",
     "imageUrl": "http://1.bp.blogspot.com/-mdOa_-XRusE/VrNRIoKJolI/AAAAAAAAF30/2uFJuCBymRI/s1600/C360_2016-02-01-16-41-23-565.jpg",
-    "price": 164,
-    "priceCurrency": "php",
+    "price": 350,
+    "priceCurrency": "PHP",
     "lat": 16.6436,
     "lng": 120.4488
   },
@@ -12,8 +12,8 @@
     "id": 148,
     "name": "Tuddingan Falls",
     "imageUrl": "http://www.traveltothephilippines.info/wp-content/uploads/2017/01/La-Union-Tuddingan-Falls3.jpg",
-    "price": 200,
-    "priceCurrency": "php",
+    "price": 249,
+    "priceCurrency": "PHP",
     "lat": 16.5752,
     "lng": 120.4174
   },
@@ -21,7 +21,7 @@
     "id": 201,
     "name": "Sebay Surf Central",
     "imageUrl": "https://aizaizbeybi.files.wordpress.com/2016/04/dsc_0327a.jpg?w=748",
-    "price": 150,
+    "price": 169,
     "priceCurrency": "PHP",
     "lat": 16.6570,
     "lng": 120.3209
@@ -30,7 +30,7 @@
     "id": 205,
     "name": "Baluarte Watch Tower",
     "imageUrl": "https://images.summitmedia-digital.com/spotph/images/2017/04/24/la_union_baluarteinside_REV.jpg",
-    "price": 115,
+    "price": 234,
     "priceCurrency": "PHP",
     "lat": 16.8568,
     "lng": 120.3729
@@ -39,7 +39,7 @@
     "id": 210,
     "name": "Ma-Cho Temple",
     "imageUrl": "http://farm4.staticflickr.com/3886/33300860536_ab8953a091_o.jpg",
-    "price": 135,
+    "price": 99,
     "priceCurrency": "PHP",
     "lat": 16.6212,
     "lng": 120.3175
