@@ -4,7 +4,7 @@
     "name": "Tangadan Falls",
     "imageUrl": "http://1.bp.blogspot.com/-mdOa_-XRusE/VrNRIoKJolI/AAAAAAAAF30/2uFJuCBymRI/s1600/C360_2016-02-01-16-41-23-565.jpg",
     "price": 164,
-    "priceCurrency": "PHP",
+    "priceCurrency": "php",
     "lat": 16.6436,
     "lng": 120.4488
   },
@@ -13,7 +13,7 @@
     "name": "Tuddingan Falls",
     "imageUrl": "http://www.traveltothephilippines.info/wp-content/uploads/2017/01/La-Union-Tuddingan-Falls3.jpg",
     "price": 200,
-    "priceCurrency": "PHP",
+    "priceCurrency": "php",
     "lat": 16.5752,
     "lng": 120.4174
   },
