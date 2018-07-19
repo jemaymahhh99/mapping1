@@ -30,7 +30,8 @@
     "id": 205,
     "name": "Baluarte Watch Tower at Luna",
     "imageUrl": "https://images.summitmedia-digital.com/spotph/images/2017/04/24/la_union_baluarteinside_REV.jpg",
-
+    "price": 80,
+    "priceCurrency": "₱",
     "lat": 16.8568,
     "lng": 120.3729
   },
@@ -48,6 +49,8 @@
     "id": 212,
     "name": "Guerero Ave. Poblacion, San Gabriel - My Home Address",
     "imageUrl": "https://scontent.fmnl6-1.fna.fbcdn.net/v/t1.0-9/37327180_1562365273869373_846559743626444800_n.jpg?_nc_cat=0&oh=c82112028acd0981db248997954c05e5&oe=5BE31D45",
+    "price": "HOME",
+    "priceCurrency": "₱",
     "lat": 16.6956,
     "lng": 120.3357
   }
