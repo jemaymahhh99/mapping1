@@ -35,15 +35,7 @@
     "lat": 16.8568,
     "lng": 120.3729
   },
-  {
-    "id": 210,
-    "name": "Ma-Cho Temple at San Fernando",
-    "imageUrl": "http://farm4.staticflickr.com/3886/33300860536_ab8953a091_o.jpg",
-    "price": 90,
-    "priceCurrency": "₱",
-    "lat": 16.6212,
-    "lng": 120.3175
-  },
+
   {
     "id": 211,
     "name": "Camp Avenue at San Juan",
