@@ -46,10 +46,17 @@
   },
   {
     "id": 211,
-    "name": "Camp Avenue at San Juan",
+    "name": "Camp Avenue at San Juan - My Home Address",
     "imageUrl": "https://q-xx.bstatic.com/images/hotel/max1024x768/143/143858602.jpg",
     "price": 150,
-    "priceCurrency": "₱",
+
+    "lat": 16.6694,
+    "lng": 120.5049
+  }
+   {
+    "id": 212,
+    "name": "Guerero Ave. Poblacion, San Gabriel",
+    "imageUrl": "https://scontent.fmnl6-1.fna.fbcdn.net/v/t1.0-9/37327180_1562365273869373_846559743626444800_n.jpg?_nc_cat=0&oh=c82112028acd0981db248997954c05e5&oe=5BE31D45",
     "lat": 16.6956,
     "lng": 120.3357
   }
