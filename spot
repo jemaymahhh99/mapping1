@@ -1,0 +1,56 @@
+[
+  {
+    "id": 145,
+    "name": "Tangadan Falls at San Gabriel",
+    "imageUrl": "http://1.bp.blogspot.com/-mdOa_-XRusE/VrNRIoKJolI/AAAAAAAAF30/2uFJuCBymRI/s1600/C360_2016-02-01-16-41-23-565.jpg",
+    "price": "100",
+    "priceCurrency": "₱",
+    "lat": 16.6436,
+    "lng": 120.4488
+  },
+  {
+    "id": 148,
+    "name": "Tuddingan Falls at Naguilian",
+    "imageUrl": "http://www.traveltothephilippines.info/wp-content/uploads/2017/01/La-Union-Tuddingan-Falls3.jpg",
+    "price": 50,
+    "priceCurrency": "₱",
+    "lat": 16.5752,
+    "lng": 120.4174
+  },
+  {
+    "id": 201,
+    "name": "Sebay Surf Central at San Juan",
+    "imageUrl": "https://aizaizbeybi.files.wordpress.com/2016/04/dsc_0327a.jpg?w=748",
+    "price": 200,
+    "priceCurrency": "₱",
+    "lat": 16.6570,
+    "lng": 120.3209
+  },
+  {
+    "id": 205,
+    "name": "Baluarte Watch Tower at Luna",
+    "imageUrl": "https://images.summitmedia-digital.com/spotph/images/2017/04/24/la_union_baluarteinside_REV.jpg",
+    "price": 20,
+    "priceCurrency": "₱",
+    "lat": 16.8568,
+    "lng": 120.3729
+  },
+  {
+    "id": 210,
+    "name": "Ma-Cho Temple at San Fernando",
+    "imageUrl": "http://farm4.staticflickr.com/3886/33300860536_ab8953a091_o.jpg",
+    "price": 90,
+    "priceCurrency": "₱",
+    "lat": 16.6212,
+    "lng": 120.3175
+  },
+  {
+    "id": 211,
+    "name": "Camp Avenue at San Juan",
+    "imageUrl": "https://q-xx.bstatic.com/images/hotel/max1024x768/143/143858602.jpg",
+    "price": 150,
+    "priceCurrency": "₱",
+    "lat": 16.6956,
+    "lng": 120.3357
+  }
+]
