@@ -3,8 +3,8 @@
     "id": 145,
     "name": "El, Nido Palawnan",
     "imageUrl": "https://www.travelinboots.com/wp-content/uploads/2016/12/Discover-El-Nido-FB-Shared-Image.jpg",
-    "price": "km",
-    "priceCurrency": 900,
+    "price": 900,
+    "priceCurrency": "km",
     "lat": 11.2097,
     "lng": 119.4623
   },
@@ -12,8 +12,8 @@
     "id": 148,
     "name": "Siargao Island",
     "imageUrl": "http://www.gotmarked.com/wp-content/uploads/Siargao-island-47-min-1200x675.jpg",
-    "price": "km",
-    "priceCurrency": 1350,
+    "price": 1350,
+    "priceCurrency": "km",
     "lat": 9.8482,
     "lng": 126.0458
   },
