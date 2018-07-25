@@ -54,52 +54,59 @@
     "lng": 123.7909
   },
   {
-    "id": 211,
-    "name": "Kota Beach Resort (Camp Sawi)",
-    "imageUrl": "https://pbs.twimg.com/media/DXId_57UMAEGdYl.jpg",
-    "price": 1041,
+    "id": 212,
+    "name": "Masungi Georeserve",
+    "imageUrl": "http://www.masungigeoreserve.com/wp-content/themes/masungi-theme-new/img/Bayawak1.jpg",
+    "price": 319,
     "priceCurrency": "km",
-    "lat": 11.1691,
-    "lng": 123.7909
+    "lat": 14.6046,
+    "lng": 121.3192
   },
    {
-    "id": 211,
-    "name": "Kota Beach Resort (Camp Sawi)",
-    "imageUrl": "https://pbs.twimg.com/media/DXId_57UMAEGdYl.jpg",
-    "price": 1041,
+    "id": 213,
+    "name": "Atok, Benguet",
+    "imageUrl": "http://www.gotmarked.com/wp-content/uploads/Atok-Benguet-11.jpg",
+    "price": 114,
     "priceCurrency": "km",
-    "lat": 11.1691,
-    "lng": 123.7909
+    "lat": 16.5974,
+    "lng": 120.6890
   },
    {
-    "id": 211,
-    "name": "Kota Beach Resort (Camp Sawi)",
-    "imageUrl": "https://pbs.twimg.com/media/DXId_57UMAEGdYl.jpg",
-    "price": 1041,
+    "id": 214,
+    "name": "Mount Pulag",
+    "imageUrl": "https://www.tripvisor.ph/wp-content/uploads/2017/07/Mt.-Pulag-8.jpg",
+    "price": 142,
     "priceCurrency": "km",
-    "lat": 11.1691,
-    "lng": 123.7909
+    "lat": 16.5975,
+    "lng": 120.8992
   },
    {
-    "id": 211,
-    "name": "Kota Beach Resort (Camp Sawi)",
-    "imageUrl": "https://pbs.twimg.com/media/DXId_57UMAEGdYl.jpg",
-    "price": 1041,
+    "id": 215,
+    "name": "Sagada",
+    "imageUrl": "https://static1.squarespace.com/static/562fe3aae4b0a3fef65d3577/t/57315cdc859fd044a666c992/1462852850137/",
+    "price": 166,
     "priceCurrency": "km",
-    "lat": 11.1691,
-    "lng": 123.7909
+    "lat": 17.0981,
+    "lng": 120.9073
   },
    {
-    "id": 211,
-    "name": "Kota Beach Resort (Camp Sawi)",
-    "imageUrl": "https://pbs.twimg.com/media/DXId_57UMAEGdYl.jpg",
+    "id": 216,
+    "name": "Oslob Whale Shark Watching",
+    "imageUrl": "http://4.bp.blogspot.com/-JqZtEI16FTg/UVCvmUt3VCI/AAAAAAAAIBE/zcHrHuBgJ1E/s1600/P3230437.JPG",
+    "price": 1220,
+    "priceCurrency": "km",
+    "lat": 9.5630,
+    "lng": 123.4159
+  },
+  {
+    "id": 216,
+    "name": "Lagoon House, Twin Lagoon, Coron, Palawan",
+    "imageUrl": "https://i.pinimg.com/originals/f2/bb/bd/f2bbbd9f007c846f2e036c26ce719936.jpg",
     "price": 1041,
     "priceCurrency": "km",
-    "lat": 11.1691,
-    "lng": 123.7909
-  },
-  
-  
+    "lat": 12.0499,
+    "lng":  120.1782
+  },  
   {
  "id": 280,
     "name": "Guerero Ave. Poblacion, San Gabriel - My Home Address",
