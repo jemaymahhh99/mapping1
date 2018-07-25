@@ -44,7 +44,7 @@
     "lat": 11.7913,
     "lng": 120.1149
   },
-    {
+  {
     "id": 211,
     "name": "Kota Beach Resort (Camp Sawi)",
     "imageUrl": "https://pbs.twimg.com/media/DXId_57UMAEGdYl.jpg",
@@ -53,6 +53,53 @@
     "lat": 11.1691,
     "lng": 123.7909
   },
+  {
+    "id": 211,
+    "name": "Kota Beach Resort (Camp Sawi)",
+    "imageUrl": "https://pbs.twimg.com/media/DXId_57UMAEGdYl.jpg",
+    "price": 1041,
+    "priceCurrency": "km",
+    "lat": 11.1691,
+    "lng": 123.7909
+  },
+   {
+    "id": 211,
+    "name": "Kota Beach Resort (Camp Sawi)",
+    "imageUrl": "https://pbs.twimg.com/media/DXId_57UMAEGdYl.jpg",
+    "price": 1041,
+    "priceCurrency": "km",
+    "lat": 11.1691,
+    "lng": 123.7909
+  },
+   {
+    "id": 211,
+    "name": "Kota Beach Resort (Camp Sawi)",
+    "imageUrl": "https://pbs.twimg.com/media/DXId_57UMAEGdYl.jpg",
+    "price": 1041,
+    "priceCurrency": "km",
+    "lat": 11.1691,
+    "lng": 123.7909
+  },
+   {
+    "id": 211,
+    "name": "Kota Beach Resort (Camp Sawi)",
+    "imageUrl": "https://pbs.twimg.com/media/DXId_57UMAEGdYl.jpg",
+    "price": 1041,
+    "priceCurrency": "km",
+    "lat": 11.1691,
+    "lng": 123.7909
+  },
+   {
+    "id": 211,
+    "name": "Kota Beach Resort (Camp Sawi)",
+    "imageUrl": "https://pbs.twimg.com/media/DXId_57UMAEGdYl.jpg",
+    "price": 1041,
+    "priceCurrency": "km",
+    "lat": 11.1691,
+    "lng": 123.7909
+  },
+  
+  
   {
  "id": 280,
     "name": "Guerero Ave. Poblacion, San Gabriel - My Home Address",
