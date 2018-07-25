@@ -1,0 +1,65 @@
+[
+  {
+    "id": 145,
+    "name": "El, Nido Palawnan",
+    "imageUrl": "https://www.travelinboots.com/wp-content/uploads/2016/12/Discover-El-Nido-FB-Shared-Image.jpg",
+    "price": "km",
+    "priceCurrency": 900,
+    "lat": 11.2097,
+    "lng": 119.4623
+  },
+  {
+    "id": 148,
+    "name": "Siargao Island",
+    "imageUrl": "http://www.gotmarked.com/wp-content/uploads/Siargao-island-47-min-1200x675.jpg",
+    "price": "km",
+    "priceCurrency": 1,350
+    "lat": 9.8482,
+    "lng": 126.0458
+  },
+  {
+    "id": 201,
+    "name": "Sebay Surf Central at San Juan",
+    "imageUrl": "https://aizaizbeybi.files.wordpress.com/2016/04/dsc_0327a.jpg?w=748",
+    "price": 200,
+    "priceCurrency": "₱",
+    "lat": 16.6570,
+    "lng": 120.3209
+  },
+  {
+    "id": 205,
+    "name": "Baluarte Watch Tower at Luna",
+    "imageUrl": "https://images.summitmedia-digital.com/spotph/images/2017/04/24/la_union_baluarteinside_REV.jpg",
+    "price": 20,
+    "priceCurrency": "₱",
+    "lat": 16.8568,
+    "lng": 120.3729
+  },
+  {
+    "id": 210,
+    "name": "Ma-Cho Temple at San Fernando",
+    "imageUrl": "http://farm4.staticflickr.com/3886/33300860536_ab8953a091_o.jpg",
+    "price": 90,
+    "priceCurrency": "₱",
+    "lat": 16.6212,
+    "lng": 120.3175
+  },
+    {
+    "id": 211,
+    "name": "Camp Avenue at San Juan",
+    "imageUrl": "https://q-xx.bstatic.com/images/hotel/max1024x768/143/143858602.jpg",
+    "price": 150,
+    "priceCurrency": "₱",
+    "lat": 16.6694,
+    "lng": 120.5049
+  },
+  {
+ "id": 280,
+    "name": "Guerero Ave. Poblacion, San Gabriel - My Home Address",
+    "imageUrl": "https://scontent.fmnl6-1.fna.fbcdn.net/v/t1.0-9/37327180_1562365273869373_846559743626444800_n.jpg?_nc_cat=0&oh=c82112028acd0981db248997954c05e5&oe=5BE31D45",
+    "price": "HOME",
+    "priceCurrency": "₱",
+    "lat": 16.6956,
+    "lng": 120.3357
+  }
+]
