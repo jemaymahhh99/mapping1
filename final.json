@@ -1,7 +1,7 @@
  [
   {
     "id": 145,
-    "name": "El, Nido Palawnan",
+    "name": "El, Nido Palawan",
     "imageUrl": "https://www.travelinboots.com/wp-content/uploads/2016/12/Discover-El-Nido-FB-Shared-Image.jpg",
     "price": 900,
     "priceCurrency": "km",
@@ -19,7 +19,7 @@
   },
   {
     "id": 201,
-    "name": "Calle Crisologo, Vigan City, Ilocos Sur",
+    "name": "Calle Crisologo, Vigan City",
     "imageUrl": "https://www.skyscanner.com.ph/wp-content/uploads/2018/05/5757450019.jpg?fit=1024,683",
     "price": 132,
     "priceCurrency": "km",
@@ -28,7 +28,7 @@
   },
   {
     "id": 205,
-    "name": "Coron Island, Palawan",
+    "name": "Coron Island",
     "imageUrl": "http://chooseweb.s3.amazonaws.com/dev/ugc-article-photos/1481128928_raw_coron-header-1.jpg",
     "price": 727,
     "priceCurrency": "km",
@@ -37,21 +37,21 @@
   },
   {
     "id": 210,
-    "name": "Ma-Cho Temple at San Fernando",
-    "imageUrl": "http://farm4.staticflickr.com/3886/33300860536_ab8953a091_o.jpg",
-    "price": 90,
-    "priceCurrency": "₱",
-    "lat": 16.6212,
-    "lng": 120.3175
+    "name": "Malcapuya Island",
+    "imageUrl": "https://lapstilyoudraps.files.wordpress.com/2013/04/552948_10151394018212409_799810186_n.jpg?w=640",
+    "price": 732,
+    "priceCurrency": "km",
+    "lat": 11.7913,
+    "lng": 120.1149
   },
     {
     "id": 211,
-    "name": "Camp Avenue at San Juan",
-    "imageUrl": "https://q-xx.bstatic.com/images/hotel/max1024x768/143/143858602.jpg",
-    "price": 150,
-    "priceCurrency": "₱",
-    "lat": 16.6694,
-    "lng": 120.5049
+    "name": "Kota Beach Resort (Camp Sawi)",
+    "imageUrl": "https://pbs.twimg.com/media/DXId_57UMAEGdYl.jpg",
+    "price": 1041,
+    "priceCurrency": "km",
+    "lat": 11.1691,
+    "lng": 123.7909
   },
   {
  "id": 280,
