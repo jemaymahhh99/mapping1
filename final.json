@@ -13,7 +13,7 @@
     "name": "Siargao Island",
     "imageUrl": "http://www.gotmarked.com/wp-content/uploads/Siargao-island-47-min-1200x675.jpg",
     "price": "km",
-    "priceCurrency": 1,350
+    "priceCurrency": 1,350,
     "lat": 9.8482,
     "lng": 126.0458
   },
