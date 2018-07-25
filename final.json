@@ -19,21 +19,21 @@
   },
   {
     "id": 201,
-    "name": "Sebay Surf Central at San Juan",
-    "imageUrl": "https://aizaizbeybi.files.wordpress.com/2016/04/dsc_0327a.jpg?w=748",
-    "price": 200,
-    "priceCurrency": "₱",
-    "lat": 16.6570,
-    "lng": 120.3209
+    "name": "Calle Crisologo, Vigan City, Ilocos Sur",
+    "imageUrl": "https://www.skyscanner.com.ph/wp-content/uploads/2018/05/5757450019.jpg?fit=1024,683",
+    "price": 132,
+    "priceCurrency": "km",
+    "lat": 17.5705,
+    "lng": 120.3873
   },
   {
     "id": 205,
-    "name": "Baluarte Watch Tower at Luna",
-    "imageUrl": "https://images.summitmedia-digital.com/spotph/images/2017/04/24/la_union_baluarteinside_REV.jpg",
-    "price": 20,
-    "priceCurrency": "₱",
-    "lat": 16.8568,
-    "lng": 120.3729
+    "name": "Coron Island, Palawan",
+    "imageUrl": "http://chooseweb.s3.amazonaws.com/dev/ugc-article-photos/1481128928_raw_coron-header-1.jpg",
+    "price": 727,
+    "priceCurrency": "km",
+    "lat": 12.0499,
+    "lng": 120.1782
   },
   {
     "id": 210,
